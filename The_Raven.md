@@ -4,9 +4,8 @@
 
 
 <h2 style="font-family:sans-serif;">The Raven</h2>
-  <img src="Edgar_Allan_Poe.jpg" alt="Edgar"
+  <img src="https://s-media-cache-ak0.pinimg.com/236x/6b/96/3b/6b963bb620bf8ebdcab7babea8a67fa3.jpg" alt="Edgar"
   style="width:304px;height:228px;">
-  <a href=https://s-media-cache-ak0.pinimg.com/236x/6b/96/3b/6b963bb620bf8ebdcab7babea8a67fa3.jpg>Edgar Allan Poe</a>  
     By Edgar Allan Poe
 
 
