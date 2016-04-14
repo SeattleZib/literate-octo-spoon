@@ -22,12 +22,14 @@ From my books surcease of sorrow, sorrow for the lost Lenore,
 For the rare and radiant maiden whom the angels name Lenore,
 Nameless here for evermore.
 
-And the silken sad uncertain rustling of each <color="orange">purple</font> curtain
+<p style="color=purple">
+And the silken sad uncertain rustling of each purple curtain
 Thrilled me, filled me with fantastic terrors never felt before;
 So that now, to still the beating of my heart, I stood repeating,
 "'<i>Tis some visitor entreating entrance at my chamber door,
 Some late visitor entreating entrance at my chamber door;-
 This it is, and nothing more.</i>"
+</p>
 
 Presently my soul grew <strong>stronger</strong>; hesitating then no longer,
 "Sir," said I, "or Madam, truly your forgiveness I implore;
