@@ -4,8 +4,9 @@
 
 
 <h2 style="font-family:sans-serif;">The Raven</h2>
-
-  <a href=http://www.etsy.com/listing/59388941/raven-bird-native-american-crow-series?ref=sr_gallery_33&ga_search_submit=&ga_search_query=raven&ga_view_type=gallery&ga_ship_to=US&ga_search_type=handmade&ga_facet=handmade>Edgar Allan Poe</a>  
+  <img src="Edgar_Allan_Poe.jpg" alt="Edgar"
+  style="width:304px;height:228px;">
+  <a href=https://s-media-cache-ak0.pinimg.com/236x/6b/96/3b/6b963bb620bf8ebdcab7babea8a67fa3.jpg>Edgar Allan Poe</a>  
     By Edgar Allan Poe
 
 
