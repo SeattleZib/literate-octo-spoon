@@ -1,7 +1,5 @@
 
-
 <body style="background-color:lightgrey;">
-
 
 <h2 style="font-family:sans-serif;">The Raven</h2>
   <img src="https://s-media-cache-ak0.pinimg.com/236x/6b/96/3b/6b963bb620bf8ebdcab7babea8a67fa3.jpg" alt="Edgar"
@@ -10,7 +8,7 @@
     By Edgar Allan Poe
 
 
-
+<p style="background-color:grey;">
 <em>Once upon a midnight dreary</em>, while I pondered, weak and weary,
 Over many a quaint and curious volume of forgotten lore,
 While I nodded, nearly napping, suddenly there came a tapping,
@@ -138,6 +136,6 @@ On the pallid bust of Pallas just above my chamber door;
 And his eyes have all the seeming of a demon's that is dreaming,
 And the lamplight o'er him streaming throws his shadow on the floor;
 And my soul from out that shadow that lies floating on the floor
-Shall be lifted, nevermore!
+Shall be lifted, nevermore!<br></p>
 Edgar Allan Poe
 http://www.public-domain-poetry.com/edgar-allan-poe/raven-1717
