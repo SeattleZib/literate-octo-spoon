@@ -1,9 +1,9 @@
-<!DOCTYPE html>
-<html>
+
+
 <body style="background-color:lightgrey;">
 
-<h2 style="font-family:gothic;"></h2>
-<h2 style="color:red;" style="font-family:gothic;">The Raven</h2>
+<h2 style="font-family:sans-serif;"></h2>
+<h2 style="color:red;" style="font-family:sans-serif;">The Raven</h2>
 
     By Edgar Allan Poe
 
@@ -23,7 +23,7 @@ From my books surcease of sorrow, sorrow for the lost Lenore,
 For the rare and radiant maiden whom the angels name Lenore,
 Nameless here for evermore.
 
-And the silken sad uncertain rustling of each <h1 style="color:purple"purple</h1> curtain
+And the silken sad uncertain rustling of each <h1 style="color:purple;">purple</h1> curtain
 Thrilled me, filled me with fantastic terrors never felt before;
 So that now, to still the beating of my heart, I stood repeating,
 "'<i>Tis some visitor entreating entrance at my chamber door,
