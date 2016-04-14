@@ -136,6 +136,6 @@ And his eyes have all the seeming of a demon's that is dreaming,
 And the lamplight o'er him streaming throws his shadow on the floor;
 And my soul from out that shadow that lies floating on the floor
 Shall be lifted, nevermore!<br>
-</body>
-Edgar Allan Poe
+
+Edgar Allan Poe<br>
 http://www.public-domain-poetry.com/edgar-allan-poe/raven-1717
