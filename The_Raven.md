@@ -1,12 +1,11 @@
 
 
 <body style="background-color:lightgrey;">
-body   {
-    color: purple;
-    }
 
-<style="font-family:sans-serif;">The Raven</h2>
 
+<h2 style="font-family:sans-serif;">The Raven</h2>
+
+  <a href=http://www.etsy.com/listing/59388941/raven-bird-native-american-crow-series?ref=sr_gallery_33&ga_search_submit=&ga_search_query=raven&ga_view_type=gallery&ga_ship_to=US&ga_search_type=handmade&ga_facet=handmade>Edgar Allan Poe</a>  
     By Edgar Allan Poe
 
 
@@ -25,14 +24,13 @@ From my books surcease of sorrow, sorrow for the lost Lenore,
 For the rare and radiant maiden whom the angels name Lenore,
 Nameless here for evermore.
 
-<p style="color=purple">
 And the silken sad uncertain rustling of each purple curtain
 Thrilled me, filled me with fantastic terrors never felt before;
 So that now, to still the beating of my heart, I stood repeating,
 "'<i>Tis some visitor entreating entrance at my chamber door,
 Some late visitor entreating entrance at my chamber door;-
 This it is, and nothing more.</i>"
-</p>
+
 
 Presently my soul grew <strong>stronger</strong>; hesitating then no longer,
 "Sir," said I, "or Madam, truly your forgiveness I implore;
